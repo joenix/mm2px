@@ -10,6 +10,6 @@
     "px2mm"
   ],
   "dependencies": {
-    "dpi.js": "^1.0.3"
+    "dpi.js": "^1.0.4"
   }
 }
